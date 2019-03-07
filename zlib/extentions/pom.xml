@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>mc.battleplugins.dev</groupId>
+    <artifactId>BattlePluginsDev-Extentions</artifactId>
+    <version>extentions_version</version>
+    <packaging>pom</packaging>
+    <name>BattlePluginsDev-Extentions</name>
+    <url>https://github.com/BattlePlugins/BattlePluginsDev</url>
+    <properties>
+        <maven.build.timestamp.format>yyyy_MM_dd</maven.build.timestamp.format>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    <modules>
+        <module>arenas/ArenaCTF</module>
+        <module>arenas/ArenaPaintball</module>
+        <module>arenas/ArenaParkour</module>
+        <module>arenas/ArenaSpleef</module>
+        <module>arenas/ArenaBowSpleef</module>
+        <module>arenas/ArenaFootbal</module>
+        <module>arenas/ArenaRailgun</module>
+        <module>arenas/ArenaBlutonium</module>
+        <module>arenas/ArenaPlunger</module>
+        <module>arenas/ArenaOITC</module>
+        <module>arenas/BombArena</module>
+        <module>arenas/HostageArena</module>
+        <module>arenas/SurvivalArena</module>
+    </modules>
+</project>

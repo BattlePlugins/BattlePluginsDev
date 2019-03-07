@@ -2,21 +2,23 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>mc.battleplugins.dev</groupId>
-    <artifactId>BattlePluginsDev</artifactId>
-    <version>parent_version</version>
+    <artifactId>BattlePluginsDev-Dependencies-Compile</artifactId>
+    <version>compile_version</version>
     <packaging>pom</packaging>
-    <name>BattlePluginsDev</name>
+    <name>BattlePluginsDev-Dependencies-Compile</name>
     <url>https://github.com/BattlePlugins/BattlePluginsDev</url>
     <properties>
         <maven.build.timestamp.format>yyyy_MM_dd</maven.build.timestamp.format>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <modules>        
-        <module>alib/dependencies</module>
-        <module>VirtualPlayers</module>
-        <module>BattleTracker</module> <!-- <module>BattleTrackerAPI</module> -->
-        <module>BattleArena</module>
-        <!-- <module>BattleTracker</module> -->
-        <module>zlib/extentions</module>
+    <modules>
+        <module>modules/Version</module>
+        <module>modules/BukkitAdapter</module>
+        <module>modules/BukkitInterface</module>
+        <module>modules/BattleBukkitLib</module>
+        <module>modules/WorldEditUtil</module>
+        <module>modules/BattlePluginUpdater</module>
+        <module>modules/BattleScoreboardAPI</module>
+        <module>modules/BattleWebAPI</module>
     </modules>
 </project>
