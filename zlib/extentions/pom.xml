@@ -13,6 +13,7 @@
     </properties>
     <modules>
         <module>arenas/ArenaCTF</module>
+        <module>arenas/ArenaDTF</module>
         <module>arenas/ArenaPaintball</module>
         <module>arenas/ArenaParkour</module>
         <module>arenas/ArenaSpleef</module>
@@ -21,7 +22,7 @@
         <module>arenas/ArenaRailgun</module>
         <module>arenas/ArenaBlutonium</module>
         <module>arenas/ArenaPlunger</module>
-        <module>arenas/ArenaOITC</module>
+        <module>arenas/ArenaOneShot</module>
         <module>arenas/BombArena</module>
         <module>arenas/HostageArena</module>
         <module>arenas/SurvivalArena</module>

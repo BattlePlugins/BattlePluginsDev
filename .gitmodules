@@ -52,3 +52,6 @@
 [submodule "zlib/extentions/arenas/ArenaPaintball"]
 	path = zlib/extentions/arenas/ArenaPaintball
 	url = https://github.com/BattlePlugins/ArenaPaintball.git
+[submodule "zlib/extentions/arenas/ArenaOneShot"]
+	path = zlib/extentions/arenas/ArenaOneShot
+	url = https://github.com/BattlePlugins/ArenaOneShot.git
