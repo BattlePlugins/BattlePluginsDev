@@ -43,3 +43,6 @@
 [submodule "zlib/extentions/arenas/ArenaSpleef"]
 	path = zlib/extentions/arenas/ArenaSpleef
 	url = https://github.com/BattlePlugins/ArenaSpleef.git
+[submodule "zlib/extentions/arenas/ArenaCTF"]
+	path = zlib/extentions/arenas/ArenaCTF
+	url = https://github.com/BattlePlugins/ArenaCTF.git
