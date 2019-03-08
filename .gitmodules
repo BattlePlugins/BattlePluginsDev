@@ -31,3 +31,6 @@
 [submodule "alib/dependencies/compile/BattleScoreboardAPI"]
 	path = alib/dependencies/compile/BattleScoreboardAPI
 	url = https://github.com/BattlePlugins/BattleScoreboardAPI.git
+[submodule "alib/dependencies/compile/BattleWebAPI"]
+	path = alib/dependencies/compile/BattleWebAPI
+	url = https://github.com/BattlePlugins/BattleWebAPI.git
