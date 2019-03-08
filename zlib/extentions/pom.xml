@@ -26,5 +26,6 @@
         <module>arenas/BombArena</module>
         <module>arenas/HostageArena</module>
         <module>arenas/SurvivalArena</module>
+        <module>arenas/ArenaDac</module>
     </modules>
 </project>
