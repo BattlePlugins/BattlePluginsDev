@@ -25,3 +25,6 @@
 [submodule "alib/dependencies/compile/WorldEditUtil"]
 	path = alib/dependencies/compile/WorldEditUtil
 	url = https://github.com/BattlePlugins/WorldEditUtil.git
+[submodule "alib/dependencies/compile/PluginUpdater"]
+	path = alib/dependencies/compile/PluginUpdater
+	url = https://github.com/BattlePlugins/PluginUpdater.git
