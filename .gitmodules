@@ -40,3 +40,6 @@
 [submodule "zlib/extentions/arenas/BombArena"]
 	path = zlib/extentions/arenas/BombArena
 	url = https://github.com/BattlePlugins/BombArena.git
+[submodule "zlib/extentions/arenas/ArenaSpleef"]
+	path = zlib/extentions/arenas/ArenaSpleef
+	url = https://github.com/BattlePlugins/ArenaSpleef.git
