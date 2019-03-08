@@ -55,3 +55,6 @@
 [submodule "zlib/extentions/arenas/ArenaOneShot"]
 	path = zlib/extentions/arenas/ArenaOneShot
 	url = https://github.com/BattlePlugins/ArenaOneShot.git
+[submodule "zlib/extentions/arenas/ArenaBlutonium"]
+	path = zlib/extentions/arenas/ArenaBlutonium
+	url = https://github.com/BattlePlugins/ArenaBlutonium.git
