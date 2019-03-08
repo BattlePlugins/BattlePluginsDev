@@ -17,7 +17,7 @@
         <module>modules/BukkitInterface</module>
         <module>modules/BattleBukkitLib</module>
         <module>modules/WorldEditUtil</module>
-        <module>modules/PluginUpdater</module>
+        <module>modules/BattlePluginUpdater</module>
         <module>modules/BattleScoreboardAPI</module>
         <module>modules/BattleWebAPI</module>
     </modules>

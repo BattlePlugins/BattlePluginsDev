@@ -8,29 +8,29 @@
 	path = BattleArena
 	url = https://github.com/BattlePlugins/BattleArena.git
 [submodule "alib/dependencies/test/MCApi"]
-	path = alib/dependencies/test/MCApi
+	path = alib/dependencies/test/modules/BattleMCApi
 	url = https://github.com/BattlePlugins/MCApi.git
 [submodule "alib/dependencies/compile/Version"]
-	path = alib/dependencies/compile/Version
+	path = alib/dependencies/compile/modules/Version
 	url = https://github.com/BattlePlugins/Version.git
 [submodule "alib/dependencies/compile/BukkitAdapter"]
-	path = alib/dependencies/compile/BukkitAdapter
+	path = alib/dependencies/compile/modules/BukkitAdapter
 	url = https://github.com/BattlePlugins/BukkitAdapter.git
 [submodule "alib/dependencies/compile/BukkitInterface"]
-	path = alib/dependencies/compile/BukkitInterface
+	path = alib/dependencies/compile/modules/BukkitInterface
 	url = https://github.com/BattlePlugins/BukkitInterface.git
 [submodule "alib/dependencies/compile/BattleBukkitLib"]
-	path = alib/dependencies/compile/BattleBukkitLib
+	path = alib/dependencies/compile/modules/BattleBukkitLib
 	url = https://github.com/BattlePlugins/BattleBukkitLib.git
 [submodule "alib/dependencies/compile/WorldEditUtil"]
-	path = alib/dependencies/compile/WorldEditUtil
+	path = alib/dependencies/compile/modules/WorldEditUtil
 	url = https://github.com/BattlePlugins/WorldEditUtil.git
 [submodule "alib/dependencies/compile/PluginUpdater"]
-	path = alib/dependencies/compile/PluginUpdater
+	path = alib/dependencies/compile/modules/BattlePluginUpdater
 	url = https://github.com/BattlePlugins/PluginUpdater.git
 [submodule "alib/dependencies/compile/BattleScoreboardAPI"]
-	path = alib/dependencies/compile/BattleScoreboardAPI
+	path = alib/dependencies/compile/modules/BattleScoreboardAPI
 	url = https://github.com/BattlePlugins/BattleScoreboardAPI.git
 [submodule "alib/dependencies/compile/BattleWebAPI"]
-	path = alib/dependencies/compile/BattleWebAPI
+	path = alib/dependencies/compile/modules/BattleWebAPI
 	url = https://github.com/BattlePlugins/BattleWebAPI.git
