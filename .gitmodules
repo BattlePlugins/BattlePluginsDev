@@ -19,3 +19,6 @@
 [submodule "alib/dependencies/compile/BukkitInterface"]
 	path = alib/dependencies/compile/BukkitInterface
 	url = https://github.com/BattlePlugins/BukkitInterface.git
+[submodule "alib/dependencies/compile/BattleBukkitLib"]
+	path = alib/dependencies/compile/BattleBukkitLib
+	url = https://github.com/BattlePlugins/BattleBukkitLib.git
