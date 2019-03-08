@@ -49,3 +49,6 @@
 [submodule "zlib/extentions/arenas/ArenaDTF"]
 	path = zlib/extentions/arenas/ArenaDTF
 	url = https://github.com/BattlePlugins/ArenaDTF.git
+[submodule "zlib/extentions/arenas/ArenaPaintball"]
+	path = zlib/extentions/arenas/ArenaPaintball
+	url = https://github.com/BattlePlugins/ArenaPaintball.git
