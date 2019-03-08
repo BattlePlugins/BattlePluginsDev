@@ -4,3 +4,6 @@
 [submodule "BattleTracker"]
 	path = BattleTracker
 	url = https://github.com/BattlePlugins/BattleTracker.git
+[submodule "BattleArena"]
+	path = BattleArena
+	url = https://github.com/BattlePlugins/BattleArena.git
