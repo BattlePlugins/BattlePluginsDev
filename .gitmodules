@@ -1,0 +1,3 @@
+[submodule "VirtualPlayers"]
+	path = VirtualPlayers
+	url = https://github.com/BattlePlugins/VirtualPlayers.git
