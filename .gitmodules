@@ -10,3 +10,6 @@
 [submodule "alib/dependencies/test/MCApi"]
 	path = alib/dependencies/test/MCApi
 	url = https://github.com/BattlePlugins/MCApi.git
+[submodule "alib/dependencies/compile/Version"]
+	path = alib/dependencies/compile/Version
+	url = https://github.com/BattlePlugins/Version.git
