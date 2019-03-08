@@ -46,3 +46,6 @@
 [submodule "zlib/extentions/arenas/ArenaCTF"]
 	path = zlib/extentions/arenas/ArenaCTF
 	url = https://github.com/BattlePlugins/ArenaCTF.git
+[submodule "zlib/extentions/arenas/ArenaDTF"]
+	path = zlib/extentions/arenas/ArenaDTF
+	url = https://github.com/BattlePlugins/ArenaDTF.git
