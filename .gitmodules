@@ -64,3 +64,6 @@
 [submodule "zlib/extentions/arenas/ArenaDac"]
 	path = zlib/extentions/arenas/ArenaDac
 	url = https://github.com/BattlePlugins/ArenaDac.git
+[submodule "zlib/extentions/arenas/ArenaTowerRush"]
+	path = zlib/extentions/arenas/ArenaTowerRush
+	url = https://github.com/BattlePlugins/ArenaTowerRush.git
