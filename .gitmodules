@@ -7,3 +7,6 @@
 [submodule "BattleArena"]
 	path = BattleArena
 	url = https://github.com/BattlePlugins/BattleArena.git
+[submodule "alib/dependencies/test/MCApi"]
+	path = alib/dependencies/test/MCApi
+	url = https://github.com/BattlePlugins/MCApi.git
