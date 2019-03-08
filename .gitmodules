@@ -34,3 +34,6 @@
 [submodule "alib/dependencies/compile/BattleWebAPI"]
 	path = alib/dependencies/compile/modules/BattleWebAPI
 	url = https://github.com/BattlePlugins/BattleWebAPI.git
+[submodule "zlib/extentions/arenas/HostageArena"]
+	path = zlib/extentions/arenas/HostageArena
+	url = https://github.com/BattlePlugins/HostageArena.git
