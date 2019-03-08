@@ -58,3 +58,6 @@
 [submodule "zlib/extentions/arenas/ArenaBlutonium"]
 	path = zlib/extentions/arenas/ArenaBlutonium
 	url = https://github.com/BattlePlugins/ArenaBlutonium.git
+[submodule "zlib/extentions/arenas/ArenaPlunger"]
+	path = zlib/extentions/arenas/ArenaPlunger
+	url = https://github.com/BattlePlugins/ArenaPlunger.git
