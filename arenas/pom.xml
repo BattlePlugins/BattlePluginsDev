@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>mc.battleplugins.dev</groupId>
     <artifactId>BattlePluginsDev-Extentions</artifactId>
@@ -12,21 +13,21 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <modules>
-        <module>arenas/ArenaCTF</module>
-        <module>arenas/ArenaDTF</module>
-        <module>arenas/ArenaPaintball</module>
-        <module>arenas/ArenaParkour</module>
-        <module>arenas/ArenaSpleef</module>
-        <module>arenas/ArenaBowSpleef</module>
-        <module>arenas/ArenaFootbal</module>
-        <module>arenas/ArenaRailgun</module>
-        <module>arenas/ArenaBlutonium</module>
-        <module>arenas/ArenaPlunger</module>
-        <module>arenas/ArenaOneShot</module>
-        <module>arenas/BombArena</module>
-        <module>arenas/HostageArena</module>
-        <module>arenas/SurvivalArena</module>
-        <module>arenas/ArenaDac</module>
-        <module>arenas/ArenaTowerRush</module>
+        <module>ArenaCTF</module>
+        <module>ArenaDTF</module>
+        <module>ArenaPaintball</module>
+        <module>ArenaParkour</module>
+        <module>ArenaSpleef</module>
+        <module>ArenaBowSpleef</module>
+        <module>ArenaFootbal</module>
+        <module>ArenaRailgun</module>
+        <module>ArenaBlutonium</module>
+        <module>ArenaPlunger</module>
+        <module>ArenaOneShot</module>
+        <module>BombArena</module>
+        <module>HostageArena</module>
+        <module>SurvivalArena</module>
+        <module>ArenaDac</module>
+        <module>ArenaTowerRush</module>
     </modules>
 </project>
