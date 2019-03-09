@@ -18,6 +18,6 @@
         <!-- <module>BattleTrackerAPI</module> --> <!-- Provide an API for BattleArena & other plugins -->
         <module>BattleArena</module>
         <!-- <module>BattleTracker</module> --> <!-- Listen to BattleArena events -->
-        <!-- <module>zlib/extentions</module> -->
+        <module>zlib/extentions</module>
     </modules>
 </project>
