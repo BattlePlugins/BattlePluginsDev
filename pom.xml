@@ -13,10 +13,11 @@
     </properties>
     <modules>        
         <module>alib/dependencies</module>
-        <module>VirtualPlayers</module>
-        <module>BattleTracker</module> <!-- <module>BattleTrackerAPI</module> -->
+        <!-- BattleTracker need to be split up into API & implementation -->
+        <module>BattleTracker</module>
+        <!-- <module>BattleTrackerAPI</module> --> <!-- Provide an API for BattleArena & other plugins -->
         <module>BattleArena</module>
-        <!-- <module>BattleTracker</module> -->
-        <module>zlib/extentions</module>
+        <!-- <module>BattleTracker</module> --> <!-- Listen to BattleArena events -->
+        <!-- <module>zlib/extentions</module> -->
     </modules>
 </project>

@@ -13,6 +13,7 @@
     </properties>
     <modules>
         <module>modules/binaries</module>
+        <module>modules/VirtualPlayers</module>
         <!-- <module>modules/Vault</module> -->
         <!-- <module>modules/WorldEdit</module> -->
         <!-- <module>modules/WorldGuard</module> -->

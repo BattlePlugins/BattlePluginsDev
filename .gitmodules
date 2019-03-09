@@ -1,5 +1,5 @@
 [submodule "VirtualPlayers"]
-	path = VirtualPlayers
+	path = alib/dependencies/runtime/modules/VirtualPlayers
 	url = https://github.com/BattlePlugins/VirtualPlayers.git
 [submodule "BattleTracker"]
 	path = BattleTracker

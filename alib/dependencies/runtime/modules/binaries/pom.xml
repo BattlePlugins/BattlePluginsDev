@@ -16,7 +16,8 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-install-plugin</artifactId>
-                <version>3.0.0-M1</version>
+                <!-- Must be v2.5.2 : Anything newer will break the build.-->
+                <version>2.5.2</version> <!-- Must be 2.5.2-->
                 <executions>
                     <execution>
                         <id>bukkit-1.2.5-R5.0</id>
@@ -1116,6 +1117,21 @@
                         </configuration>
                     </execution>
                     <execution>
+                        <id>VirtualPlayers-1.6.7</id>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>install-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>bin/VirtualPlayers-1.6.7.jar</file>
+                            <groupId>mc.alk</groupId>
+                            <artifactId>VirtualPlayers</artifactId>
+                            <version>1.6.7</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                        </configuration>
+                    </execution>
+                    <execution>
                         <id>worldedit-5.5.8</id>
                         <phase>install</phase>
                         <goals>
@@ -1161,6 +1177,21 @@
                         </configuration>
                     </execution>
                     <execution>
+                        <id>worldedit-core-7.0.0-SNAPSHOT</id>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>install-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>bin/worldedit-core-7.0.0-SNAPSHOT.jar</file>
+                            <groupId>com.sk89q.worldedit</groupId>
+                            <artifactId>worldedit-core</artifactId>
+                            <version>7.0.0-SNAPSHOT</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                        </configuration>
+                    </execution>
+                    <execution>
                         <id>worldguard-5.8.1-SNAPSHOT</id>
                         <phase>install</phase>
                         <goals>
@@ -1191,13 +1222,28 @@
                         </configuration>
                     </execution>
                     <execution>
+                        <id>worldguard-core-7.0.0-SNAPSHOT</id>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>install-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>bin/worldguard-core-7.0.0-SNAPSHOT.jar</file>
+                            <groupId>com.sk89q.worldguard</groupId>
+                            <artifactId>worldguard-core</artifactId>
+                            <version>7.0.0-SNAPSHOT</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                        </configuration>
+                    </execution>
+                    <execution>
                         <id>worldguard-legacy-7.0.0-SNAPSHOT</id>
                         <phase>install</phase>
                         <goals>
                             <goal>install-file</goal>
                         </goals>
                         <configuration>
-                            <file>bin/worldguard-legacy-7.0.0-SNAPSHOT</file>
+                            <file>bin/worldguard-legacy-7.0.0-SNAPSHOT.jar</file>
                             <groupId>com.sk89q.worldguard</groupId>
                             <artifactId>worldguard-legacy</artifactId>
                             <version>7.0.0-SNAPSHOT</version>
