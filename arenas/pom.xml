@@ -13,21 +13,39 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <modules>
-        <module>ArenaCTF</module>
-        <module>ArenaDTF</module>
-        <module>ArenaPaintball</module>
-        <module>ArenaParkour</module>
-        <module>ArenaSpleef</module>
-        <module>ArenaBowSpleef</module>
-        <module>ArenaFootbal</module>
-        <module>ArenaRailgun</module>
         <module>ArenaBlutonium</module>
-        <module>ArenaPlunger</module>
+        <!-- <module>ArenaBattleRoyale</module> -->
+        <!-- <module>ArenaBoardGames</module> -->
+        <!-- <module>ArenaBomberman</module> -->
+        <!-- <module>ArenaBowSpleef</module> -->
+        <module>ArenaCTF</module>
+        <!-- <module>ArenaDac</module> -->
+        <!-- <module>ArenaDeathrun</module> -->
+        <module>ArenaDTF</module>
+        <!-- <module>ArenaFootbal</module> -->
         <module>ArenaOneShot</module>
-        <module>BombArena</module>
-        <module>HostageArena</module>
-        <module>SurvivalArena</module>
-        <module>ArenaDac</module>
+        <module>ArenaPaintball</module>
+        <!-- <module>ArenaParkour</module> -->
+        <module>ArenaPlunger</module>
+        <!-- <module>ArenaRailgun</module> -->
+        <!-- <module>ArenaRedAlert</module> -->
+        <module>ArenaSpleef</module>
         <module>ArenaTowerRush</module>
+        <!-- <module>ArenaTOW</module> -->
+        <!-- <module>ArenaWoolGame</module> -->
+        <module>BombArena</module>
+        <!-- <module>BossArena</module> -->
+        <!-- <module>ConquestArena</module> -->
+        <!-- <module>HackerArena</module> -->
+        <module>HostageArena</module>
+        <!-- <module>PokemonArena</module> -->
+        <!-- <module>PuzzleArena</module> -->
+        <!-- <module>RainbowJumpArena</module> -->
+        <!-- <module>RedstoneArena</module> -->
+        <!-- <module>SuperRaceKartArena</module> -->
+        <!-- <module>SurvivalArena</module> -->
+        <!-- <module>TacticalArena</module> -->
+        <!-- <module>QuakeArena</module> -->
+        <!-- <module>QuizArena</module> -->
     </modules>
 </project>
