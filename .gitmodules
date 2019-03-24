@@ -37,3 +37,36 @@
 [submodule "arenas/ArenaTowerRush"]
 	path = arenas/ArenaTowerRush
 	url = https://github.com/BattlePlugins/ArenaTowerRush.git
+[submodule "dependencies/BattleMCApi"]
+	path = dependencies/BattleMCApi
+	url = https://github.com/BattlePlugins/BattleMCApi.git
+[submodule "dependencies/BattleCore"]
+	path = dependencies/BattleCore
+	url = https://github.com/BattlePlugins/BattleCore.git
+[submodule "dependencies/Version"]
+	path = dependencies/Version
+	url = https://github.com/BattlePlugins/Version.git
+[submodule "dependencies/BukkitAdapter"]
+	path = dependencies/BukkitAdapter
+	url = https://github.com/BattlePlugins/BukkitAdapter.git
+[submodule "dependencies/BukkitInterface"]
+	path = dependencies/BukkitInterface
+	url = https://github.com/BattlePlugins/BukkitInterface.git
+[submodule "dependencies/BattleBukkitLib"]
+	path = dependencies/BattleBukkitLib
+	url = https://github.com/BattlePlugins/BattleBukkitLib.git
+[submodule "dependencies/WorldEditUtil"]
+	path = dependencies/WorldEditUtil
+	url = https://github.com/BattlePlugins/WorldEditUtil.git
+[submodule "dependencies/BattlePluginUpdater"]
+	path = dependencies/BattlePluginUpdater
+	url = https://github.com/BattlePlugins/BattlePluginUpdater.git
+[submodule "dependencies/BattleScoreboardAPI"]
+	path = dependencies/BattleScoreboardAPI
+	url = https://github.com/BattlePlugins/BattleScoreboardAPI.git
+[submodule "dependencies/BattleWebAPI"]
+	path = dependencies/BattleWebAPI
+	url = https://github.com/BattlePlugins/BattleWebAPI.git
+[submodule "VirtualPlayers"]
+	path = VirtualPlayers
+	url = https://github.com/BattlePlugins/VirtualPlayers.git

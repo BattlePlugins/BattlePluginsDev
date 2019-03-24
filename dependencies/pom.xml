@@ -13,8 +13,15 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <modules>
-        <module>runtime</module>
-        <module>test</module>
-        <module>compile</module>
+        <module>BattleMCApi</module>
+        <module>BattleCore</module>
+        <module>Version</module>
+        <module>BukkitAdapter</module>
+        <module>BukkitInterface</module>
+        <module>BattleBukkitLib</module>
+        <module>WorldEditUtil</module>
+        <module>BattlePluginUpdater</module>
+        <module>BattleScoreboardAPI</module>
+        <module>BattleWebAPI</module>
     </modules>
 </project>

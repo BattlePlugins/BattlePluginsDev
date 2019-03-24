@@ -14,11 +14,9 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
     </properties>
     <modules>        
         <module>dependencies</module>
-        <!-- BattleTracker need to be split up into API & implementation -->
+        <module>VirtualPlayers</module>
         <module>BattleTracker</module>
-        <!-- <module>BattleTrackerAPI</module> --> <!-- Provide an API for BattleArena & other plugins -->
         <module>BattleArena</module>
-        <!-- <module>BattleTracker</module> --> <!-- Listen to BattleArena events -->
         <module>arenas</module>
     </modules>
 </project>
