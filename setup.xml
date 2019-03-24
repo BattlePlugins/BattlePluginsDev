@@ -1072,6 +1072,21 @@
                         </configuration>
                     </execution>
                     <execution>
+                        <id>server-test</id>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>install-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>lib/server-test.jar</file>
+                            <groupId>mc.bp</groupId>
+                            <artifactId>server</artifactId>
+                            <version>test</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                        </configuration>
+                    </execution>
+                    <execution>
                         <id>tagapi-3.0-SNAPSHOT</id>
                         <phase>install</phase>
                         <goals>
