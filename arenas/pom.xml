@@ -22,12 +22,11 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <!-- <module>ArenaDac</module> -->
         <!-- <module>ArenaDeathrun</module> -->
         <module>ArenaDTF</module>
-        <!-- <module>ArenaFootbal</module> -->
+        <!-- <module>ArenaFutbol</module> -->
         <module>ArenaOneShot</module>
         <module>ArenaPaintball</module>
         <!-- <module>ArenaParkour</module> -->
         <module>ArenaPlunger</module>
-        <!-- <module>ArenaRailgun</module> -->
         <!-- <module>ArenaRedAlert</module> -->
         <module>ArenaSpleef</module>
         <module>ArenaTowerRush</module>
@@ -48,4 +47,57 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <!-- <module>QuakeArena</module> -->
         <!-- <module>QuizArena</module> -->
     </modules>
+    <build>
+        <defaultGoal>install</defaultGoal>
+        <plugins>
+            <plugin>
+                <artifactId>maven-antrun-plugin</artifactId>
+                <configuration>
+                    <tasks>
+                        <copy file="./ArenaBlutonium/target/ArenaBlutonium.jar" tofile="./server/plugins/ArenaBlutonium.jar"/>
+                        <!-- <copy file="./ArenaBattleRoyale/target/ArenaBattleRoyale.jar" tofile="./server/plugins/ArenaBattleRoyale.jar"/> -->
+                        <!-- <copy file="./ArenaBoardGames/target/ArenaBoardGames.jar" tofile="./server/plugins/ArenaBoardGames.jar"/> -->
+                        <!-- <copy file="./ArenaBomberman/target/ArenaBomberman.jar" tofile="./server/plugins/ArenaBomberman.jar"/> -->
+                        <!-- <copy file="./ArenaBowSpleef/target/ArenaBowSpleef.jar" tofile="./server/plugins/ArenaBowSpleef.jar"/> -->
+                        <copy file="./ArenaCTF/target/ArenaCTF.jar" tofile="./server/plugins/ArenaCTF.jar"/>
+                        <!-- <copy file="./ArenaDac/target/ArenaDac.jar" tofile="./server/plugins/ArenaDac.jar"/> -->
+                        <!-- <copy file="./ArenaDeathrun/target/ArenaDeathrun.jar" tofile="./server/plugins/ArenaDeathrun.jar"/> -->
+                        <copy file="./ArenaDTF/target/ArenaDTF.jar" tofile="./server/plugins/ArenaDTF.jar"/>
+                        <!-- <copy file="./ArenaFutbol/target/ArenaFutbol.jar" tofile="./server/plugins/ArenaFutbol.jar"/> -->
+                        <copy file="./ArenaOneShot/target/ArenaOneShot.jar" tofile="./server/plugins/ArenaOneShot.jar"/>
+                        <copy file="./ArenaPaintball/target/ArenaPaintball.jar" tofile="./server/plugins/ArenaPaintball.jar"/>
+                        <!-- <copy file="./ArenaParkour/target/ArenaParkour.jar" tofile="./server/plugins/ArenaParkour.jar"/> -->
+                        <copy file="./ArenaPlunger/target/ArenaPlunger.jar" tofile="./server/plugins/ArenaPlunger.jar"/>
+                        <!-- <copy file="./ArenaRedAlert/target/ArenaRedAlert.jar" tofile="./server/plugins/ArenaRedAlert.jar"/> -->
+                        <copy file="./ArenaSpleef/target/ArenaSpleef.jar" tofile="./server/plugins/ArenaSpleef.jar"/>
+                        <copy file="./ArenaTowerRush/target/ArenaTowerRush.jar" tofile="./server/plugins/ArenaTowerRush.jar"/>
+                        <!-- <copy file="./ArenaTOW/target/ArenaTOW.jar" tofile="./server/plugins/ArenaTOW.jar"/> -->
+                        <!-- <copy file="./ArenaWoolGame/target/ArenaWoolGame.jar" tofile="./server/plugins/ArenaWoolGame.jar"/> -->
+                        <copy file="./BombArena/target/BombArena.jar" tofile="./server/plugins/BombArena.jar"/>
+                        <!-- <copy file="./BossArena/target/BossArena.jar" tofile="./server/plugins/BossArena.jar"/> -->
+                        <!-- <copy file="./ConquestArena/target/ConquestArena.jar" tofile="./server/plugins/ConquestArena.jar"/> -->
+                        <!-- <copy file="./HackerArena/target/HackerArena.jar" tofile="./server/plugins/HackerArena.jar"/> -->
+                        <copy file="./HostageArena/target/HostageArena.jar" tofile="./server/plugins/HostageArena.jar"/>
+                        <!-- <copy file="./PokemonArena/target/PokemonArena.jar" tofile="./server/plugins/PokemonArena.jar"/> -->
+                        <!-- <copy file="./PuzzleArena/target/PuzzleArena.jar" tofile="./server/plugins/PuzzleArena.jar"/> -->
+                        <!-- <copy file="./RainbowJumpArena/target/RainbowJumpArena.jar" tofile="./server/plugins/RainbowJumpArena.jar"/> -->
+                        <!-- <copy file="./RedstoneArena/target/RedstoneArena.jar" tofile="./server/plugins/RedstoneArena.jar"/> -->
+                        <!-- <copy file="./SuperRaceKartArena/target/SuperRaceKartArena.jar" tofile="./server/plugins/SuperRaceKartArena.jar"/> -->
+                        <!-- <copy file="./SurvivalArena/target/SurvivalArena.jar" tofile="./server/plugins/SurvivalArena.jar"/> -->
+                        <!-- <copy file="./TacticalArena/target/TacticalArena.jar" tofile="./server/plugins/TacticalArena.jar"/> -->
+                        <!-- <copy file="./QuakeArena/target/QuakeArena.jar" tofile="./server/plugins/QuakeArena.jar"/> -->
+                        <!-- <copy file="./QuizArena/target/QuizArena.jar" tofile="./server/plugins/QuizArena.jar"/> -->
+                    </tasks>
+                </configuration>
+                <executions>
+                    <execution>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>run</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
 </project>

@@ -17,6 +17,29 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <module>VirtualPlayers</module>
         <module>BattleTracker</module>
         <module>BattleArena</module>
-        <module>arenas</module>
+        <!-- <module>arenas</module> -->
     </modules>
+    <build>
+        <defaultGoal>install</defaultGoal>
+        <plugins>
+            <plugin>
+                <artifactId>maven-antrun-plugin</artifactId>
+                <configuration>
+                    <tasks>
+                        <copy file="./VirtualPlayers/target/VirtualPlayers2.jar" tofile="./server/plugins/VirtualPlayers2.jar"/>
+                        <copy file="./BattleTracker/target/BattleTracker.jar" tofile="./server/plugins/BattleTracker.jar"/>
+                        <copy file="./BattleArena/target/BattleArena.jar" tofile="./server/plugins/BattleArena.jar"/>
+                    </tasks>
+                </configuration>
+                <executions>
+                    <execution>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>run</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
 </project>
