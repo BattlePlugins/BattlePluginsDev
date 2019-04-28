@@ -19,6 +19,9 @@
 [submodule "arenas/ArenaDTF"]
 	path = arenas/ArenaDTF
 	url = https://github.com/BattlePlugins/ArenaDTF.git
+[submodule "arenas/ArenaParkour"]
+    path = arenas/ArenaParkour
+    url = https://github.com/BattlePlugins/ArenaParkour.git
 [submodule "arenas/ArenaPaintball"]
 	path = arenas/ArenaPaintball
 	url = https://github.com/BattlePlugins/ArenaPaintball.git
