@@ -460,6 +460,23 @@
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
+                    <execution>
+                        <id>bukkit-1.14.0-pre5</id>
+                        <phase>deploy</phase>
+                        <goals>
+                            <goal>deploy-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>lib/bukkit-1.14.0-pre5.jar</file>
+                            <groupId>org.bukkit</groupId>
+                            <artifactId>bukkit</artifactId>
+                            <version>1.14.0-pre5</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <repositoryId>central</repositoryId>
+                        </configuration>
+                    </execution>
                     <!-- bukkit TEMPLATE for future versions -->
 <!--                    <execution>
                         <id>OSIDJF</id>
@@ -982,6 +999,23 @@
                             <groupId>org.bukkit</groupId>
                             <artifactId>craftbukkit</artifactId>
                             <version>1.13.0-R0.1</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <repositoryId>central</repositoryId>
+                        </configuration>
+                    </execution>
+                    <execution>
+                        <id>craftbukkit-1.14.0-pre5</id>
+                        <phase>deploy</phase>
+                        <goals>
+                            <goal>deploy-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>lib/craftbukkit-1.14.0-pre5.jar</file>
+                            <groupId>org.bukkit</groupId>
+                            <artifactId>craftbukkit</artifactId>
+                            <version>1.14.0-pre5</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
                             <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
