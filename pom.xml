@@ -1296,19 +1296,19 @@
                         </configuration>
                     </execution>
                     <execution>
-                        <id>tagapi-3.0-SNAPSHOT</id>
+                        <id>tagapi-3.0</id>
                         <phase>deploy</phase>
                         <goals>
                             <goal>deploy-file</goal>
                         </goals>
                         <configuration>
-                            <file>lib/tagapi-3.0-SNAPSHOT.jar</file>
+                            <file>lib/tagapi-3.0.jar</file>
                             <groupId>org.kitteh</groupId>
                             <artifactId>tagapi</artifactId>
-                            <version>3.0-SNAPSHOT</version>
+                            <version>3.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
