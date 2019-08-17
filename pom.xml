@@ -1149,7 +1149,7 @@
                             <goal>deploy-file</goal>
                         </goals>
                         <configuration>
-                            <file>lib/EnjinMinecraftPlugin</file>
+                            <file>lib/EnjinMinecraftPlugin.jar</file>
                             <groupId>unknown.plugins</groupId>
                             <artifactId>EnjinMinecraftPlugin</artifactId>
                             <version>3.5.10</version>
