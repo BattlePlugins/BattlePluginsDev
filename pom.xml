@@ -1143,6 +1143,23 @@
                         </configuration>
                     </execution>
                     <execution>
+                        <id>EnjinMinecraftPlugin</id>
+                        <phase>deploy</phase>
+                        <goals>
+                            <goal>deploy-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>lib/EnjinMinecraftPlugin</file>
+                            <groupId>unknown.plugins</groupId>
+                            <artifactId>EnjinMinecraftPlugin</artifactId>
+                            <version>3.5.10</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <repositoryId>central</repositoryId>
+                        </configuration>
+                    </execution>
+                    <execution>
                         <id>Essentials-2.1.0</id>
                         <phase>deploy</phase>
                         <goals>
