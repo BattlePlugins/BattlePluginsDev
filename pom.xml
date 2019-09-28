@@ -1330,6 +1330,23 @@
                         </configuration>
                     </execution>
                     <execution>
+                        <id>RollbackCore-3.4.3-SNAPSHOT</id>
+                        <phase>deploy</phase>
+                        <goals>
+                            <goal>deploy-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>lib/RollbackCore-3.4.3-SNAPSHOT</file>
+                            <groupId>unknown.plugins</groupId>
+                            <artifactId>RollbackCore</artifactId>
+                            <version>3.4.3</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <repositoryId>central</repositoryId>
+                        </configuration>
+                    </execution>
+                    <execution>
                         <id>server-test</id>
                         <phase>deploy</phase>
                         <goals>
