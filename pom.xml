@@ -1336,7 +1336,7 @@
                             <goal>deploy-file</goal>
                         </goals>
                         <configuration>
-                            <file>lib/RollbackCore-3.4.3-SNAPSHOT</file>
+                            <file>lib/RollbackCore-3.4.3-SNAPSHOT.jar</file>
                             <groupId>unknown.plugins</groupId>
                             <artifactId>RollbackCore</artifactId>
                             <version>3.4.3</version>
