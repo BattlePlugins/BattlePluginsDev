@@ -890,6 +890,21 @@
                             <generatePom>true</generatePom>
                         </configuration>
                     </execution>
+                    <execution>
+                        <id>spigot-1.15-R0.1</id>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>install-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>lib/spigot-1.15-R0.1.jar</file>
+                            <groupId>org.spigotmc</groupId>
+                            <artifactId>spigot</artifactId>
+                            <version>1.15-R0.1</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                        </configuration>
+                    </execution>
                     <!-- craftbukkit TEMPLATE for future versions -->
 <!--                    <execution>
                         <id>OSIDJF</id>
