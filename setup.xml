@@ -921,16 +921,16 @@
                         </configuration>
                     </execution>
                     <execution>
-                        <id>spigot-1.15-R0.1</id>
+                        <id>spigot-1.15.0-R0.1</id>
                         <phase>install</phase>
                         <goals>
                             <goal>install-file</goal>
                         </goals>
                         <configuration>
-                            <file>lib/spigot-1.15-R0.1.jar</file>
+                            <file>lib/spigot-1.15.0-R0.1.jar</file>
                             <groupId>org.spigotmc</groupId>
                             <artifactId>spigot</artifactId>
-                            <version>1.15-R0.1</version>
+                            <version>1.15.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
                         </configuration>
