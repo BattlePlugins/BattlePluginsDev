@@ -409,6 +409,21 @@
                             <generatePom>true</generatePom>
                         </configuration>
                     </execution>
+                    <execution>
+                        <id>bukkit-1.14.0-R0.1</id>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>install-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>lib/bukkit-1.14.0-pre5.jar</file>
+                            <groupId>org.bukkit</groupId>
+                            <artifactId>bukkit</artifactId>
+                            <version>1.14.0-pre5</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                        </configuration>
+                    </execution>
                     <!-- bukkit TEMPLATE for future versions -->
 <!--                    <execution>
                         <id>OSIDJF</id>
@@ -886,6 +901,21 @@
                             <groupId>org.bukkit</groupId>
                             <artifactId>craftbukkit</artifactId>
                             <version>1.13.2-R0.1</version>
+                            <packaging>jar</packaging>
+                            <generatePom>true</generatePom>
+                        </configuration>
+                    </execution>
+                    <execution>
+                        <id>craftbukkit-1.14.0-R0.1</id>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>install-file</goal>
+                        </goals>
+                        <configuration>
+                            <file>lib/craftbukkit-1.14.0-pre5.jar</file>
+                            <groupId>org.bukkit</groupId>
+                            <artifactId>craftbukkit</artifactId>
+                            <version>1.14.0-pre5</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
                         </configuration>
