@@ -31,7 +31,7 @@
                             <version>1.2.5-R5.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -48,7 +48,7 @@
                             <version>1.3.2-R3.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -65,7 +65,7 @@
                             <version>1.4.2-R0.2</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -82,7 +82,7 @@
                             <version>1.4.5-R1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -99,7 +99,7 @@
                             <version>1.4.6-R0.3</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -116,7 +116,7 @@
                             <version>1.4.7-R1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -133,7 +133,7 @@
                             <version>1.5.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -150,7 +150,7 @@
                             <version>1.5.1-R0.2</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -167,7 +167,7 @@
                             <version>1.5.2-R1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -184,7 +184,7 @@
                             <version>1.6.1-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -201,7 +201,7 @@
                             <version>1.6.2-R1.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -218,7 +218,7 @@
                             <version>1.6.4-R2.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -235,7 +235,7 @@
                             <version>1.7.2-R0.3</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -252,7 +252,7 @@
                             <version>1.7.5-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -269,7 +269,7 @@
                             <version>1.7.9-R0.3</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -286,7 +286,7 @@
                             <version>1.7.10-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -303,7 +303,7 @@
                             <version>1.8.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -320,7 +320,7 @@
                             <version>1.8.3-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -337,7 +337,7 @@
                             <version>1.8.8-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -354,7 +354,7 @@
                             <version>1.9.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -371,7 +371,7 @@
                             <version>1.9.4-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -388,7 +388,7 @@
                             <version>1.10.2-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -405,7 +405,7 @@
                             <version>1.11.2-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -422,7 +422,7 @@
                             <version>1.12.2-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -439,7 +439,7 @@
                             <version>1.13.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -456,7 +456,7 @@
                             <version>1.13.2-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -473,7 +473,7 @@
                             <version>1.14.0-pre5</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -490,7 +490,7 @@
                             <version>1.14.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -507,7 +507,7 @@
                             <version>1.14.4-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -525,7 +525,7 @@
                             <version>OSIDJF</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>-->
@@ -542,7 +542,7 @@
                             <version>6.3.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -559,7 +559,7 @@
                             <version>1.2.5-R5.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -576,7 +576,7 @@
                             <version>1.3.2-R3.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -593,7 +593,7 @@
                             <version>1.4.2-R0.2</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -610,7 +610,7 @@
                             <version>1.4.5-R1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -627,7 +627,7 @@
                             <version>1.4.6-R0.3</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -644,7 +644,7 @@
                             <version>1.4.7-R1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -661,7 +661,7 @@
                             <version>1.5.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -678,7 +678,7 @@
                             <version>1.5.1-R0.2</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -695,7 +695,7 @@
                             <version>1.5.2-R1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -712,7 +712,7 @@
                             <version>1.6.1-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -729,7 +729,7 @@
                             <version>1.6.2-R1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -746,7 +746,7 @@
                             <version>1.6.4-R2.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -763,7 +763,7 @@
                             <version>1.7.2-R0.3</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -780,7 +780,7 @@
                             <version>1.7.5-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -797,7 +797,7 @@
                             <version>1.7.8-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -814,7 +814,7 @@
                             <version>1.7.9-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -831,7 +831,7 @@
                             <version>1.7.10-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -848,7 +848,7 @@
                             <version>1.8.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -865,7 +865,7 @@
                             <version>1.8.1-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -882,7 +882,7 @@
                             <version>1.8.3-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -899,7 +899,7 @@
                             <version>1.8.7-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -916,7 +916,7 @@
                             <version>1.8.8-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -933,7 +933,7 @@
                             <version>1.9.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -950,7 +950,7 @@
                             <version>1.9.2-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -967,7 +967,7 @@
                             <version>1.9.4-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -984,7 +984,7 @@
                             <version>1.10.2-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1001,7 +1001,7 @@
                             <version>1.11.2-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1018,7 +1018,7 @@
                             <version>1.12.2-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1035,7 +1035,7 @@
                             <version>1.13.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1052,7 +1052,7 @@
                             <version>1.13.2-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1069,7 +1069,7 @@
                             <version>1.14.0-pre5</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1086,7 +1086,7 @@
                             <version>1.14.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1103,7 +1103,7 @@
                             <version>1.14.4-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1120,7 +1120,7 @@
                             <version>1.15.0-R0.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1138,7 +1138,7 @@
                             <version>OSIDJF</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>-->
@@ -1155,7 +1155,7 @@
                             <version>4.4</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1172,7 +1172,7 @@
                             <version>3.5.10</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1189,7 +1189,7 @@
                             <version>2.1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1206,7 +1206,7 @@
                             <version>2.1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1223,7 +1223,7 @@
                             <version>5.6.6</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1240,7 +1240,7 @@
                             <version>1.5.1</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1257,7 +1257,7 @@
                             <version>7.9.8-SNAPSHOT</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-snapshot-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1274,7 +1274,7 @@
                             <version>1.4.08-SNAPSHOT</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-snapshot-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1291,7 +1291,7 @@
                             <version>7.1.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1308,7 +1308,7 @@
                             <version>0.94.4.95</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1325,7 +1325,7 @@
                             <version>2.2</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1342,7 +1342,7 @@
                             <version>0.4</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1359,7 +1359,7 @@
                             <version>3.4.3</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1376,7 +1376,7 @@
                             <version>test</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1393,7 +1393,7 @@
                             <version>3.0</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1410,7 +1410,7 @@
                             <version>3.18.10</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1427,7 +1427,7 @@
                             <version>1.2.31</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1444,7 +1444,7 @@
                             <version>1.6.7</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1461,7 +1461,7 @@
                             <version>5.5.8</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1478,7 +1478,7 @@
                             <version>6.0.0-SNAPSHOT</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-snapshot-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1495,7 +1495,7 @@
                             <version>7.0.0-SNAPSHOT</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-snapshot-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1512,7 +1512,7 @@
                             <version>7.0.0-SNAPSHOT</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-snapshot-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1529,7 +1529,7 @@
                             <version>5.8.1-SNAPSHOT</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-snapshot-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1546,7 +1546,7 @@
                             <version>6.0.0-SNAPSHOT</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-snapshot-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1563,7 +1563,7 @@
                             <version>7.0.0-SNAPSHOT</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-snapshot-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1580,7 +1580,7 @@
                             <version>7.0.0-SNAPSHOT</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
-                            <url>https://artifactory.battleplugins.org/artifactory/libs-snapshot-local</url>
+                            <url>https://repo.battleplugins.org/artifactory/libs-snapshot-local</url>
                             <repositoryId>central</repositoryId>
                         </configuration>
                     </execution>
@@ -1592,7 +1592,7 @@
         <repository>
             <id>central</id>
             <name>BattlePlugins Artifactory Server-releases</name>
-            <url>https://artifactory.battleplugins.org/artifactory/libs-release-local</url>
+            <url>https://repo.battleplugins.org/artifactory/libs-release-local</url>
         </repository>
     </distributionManagement>
 </project>
